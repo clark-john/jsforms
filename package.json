@@ -1,0 +1,18 @@
+{
+  "name": "js-forms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vitepress dev docs --port 9001",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs"
+  },
+  "dependencies": {
+    "vitepress": "^1.0.0-alpha.28",
+    "vue": "^3.2.45"
+  },
+  "devDependencies": {
+    "sass": "^1.56.1"
+  }
+}
