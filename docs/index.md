@@ -6,9 +6,9 @@ hero:
   name: JS Forms
   text: Form Handling with JavaScript and Others
   tagline: onsubmit="return false"
-  image:
-    src: /assets/js.png
-    alt: javascript
+  # image:
+    # src: /js.png
+    # alt: javascript
   actions:
     - theme: brand
       text: Let's go

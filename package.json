@@ -6,15 +6,13 @@
   "scripts": {
     "dev": "vitepress dev docs --port 9001",
     "build": "vitepress build docs",
-    "serve": "vitepress serve docs",
-    "deploy": "yarn build && gh-pages -d docs/.vitepress/dist"
+    "serve": "vitepress serve docs"
   },
   "dependencies": {
     "vitepress": "^1.0.0-alpha.28",
     "vue": "^3.2.45"
   },
   "devDependencies": {
-    "gh-pages": "^4.0.0",
     "sass": "^1.56.1"
   }
 }
