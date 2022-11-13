@@ -2,7 +2,8 @@
 title: Getting Values from a Form
 ---
 
-# {{this.$frontmatter.title}}
+# Getting Values from a Form
+<!-- # {{this.$frontmatter.title}} -->
 
 ```html
 <form>

@@ -2,6 +2,6 @@
 title: Passing FormData
 ---
 
-# {{this.$frontmatter.title}}
+# Passing FormData
 
 Soon...
