@@ -27,7 +27,7 @@ export default {
 			}
 		],
 		editLink: {
-			pattern: 'https://github.com/clark-john/js-forms/edit/main/docs/:path'
+			pattern: 'https://github.com/clark-john/jsforms/edit/main/docs/:path'
 		}
 	}
 }
